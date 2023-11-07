@@ -2,7 +2,7 @@
 
 A passionate philosopher in the world of programming.
 
-[![Linkedin: agustibm](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustibm/)](https://www.linkedin.com/in/agustibm/)
+[![Linkedin: agustibm](https://img.shields.io/badge/-agustibm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustibm/)](https://www.linkedin.com/in/agustibm/)
 ![GitHub followers](https://img.shields.io/github/followers/7agustibm?label=Follow&style=social)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=7agustibm.7agustibm)
